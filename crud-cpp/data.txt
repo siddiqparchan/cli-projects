@@ -1,0 +1,5 @@
+4
+No		Nama		NIS		Jurusan
+1		Sukarno		90		IPA		
+2		Sudarno		33		Hukum		
+3		Burhan		66		IPA		
